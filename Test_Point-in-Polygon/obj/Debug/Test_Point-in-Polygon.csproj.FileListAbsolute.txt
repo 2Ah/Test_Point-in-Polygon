@@ -1,0 +1,7 @@
+F:\_My_Doc\_Projects\_Programm\C#\_VisualStudio2019\Test_Point-in-Polygon\Test_Point-in-Polygon\bin\Debug\Test_Point-in-Polygon.exe.config
+F:\_My_Doc\_Projects\_Programm\C#\_VisualStudio2019\Test_Point-in-Polygon\Test_Point-in-Polygon\bin\Debug\Test_Point-in-Polygon.exe
+F:\_My_Doc\_Projects\_Programm\C#\_VisualStudio2019\Test_Point-in-Polygon\Test_Point-in-Polygon\bin\Debug\Test_Point-in-Polygon.pdb
+F:\_My_Doc\_Projects\_Programm\C#\_VisualStudio2019\Test_Point-in-Polygon\Test_Point-in-Polygon\obj\Debug\Test_Point-in-Polygon.csprojAssemblyReference.cache
+F:\_My_Doc\_Projects\_Programm\C#\_VisualStudio2019\Test_Point-in-Polygon\Test_Point-in-Polygon\obj\Debug\Test_Point-in-Polygon.csproj.CoreCompileInputs.cache
+F:\_My_Doc\_Projects\_Programm\C#\_VisualStudio2019\Test_Point-in-Polygon\Test_Point-in-Polygon\obj\Debug\Test_Point-in-Polygon.exe
+F:\_My_Doc\_Projects\_Programm\C#\_VisualStudio2019\Test_Point-in-Polygon\Test_Point-in-Polygon\obj\Debug\Test_Point-in-Polygon.pdb
